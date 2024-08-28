@@ -16,14 +16,14 @@ A brief introduction to what your web app does. For example:
 
 This is a simple blogging platform built with Python and Flask. Users can register, log in, create, edit, and delete blog posts. The app also features a user authentication system, and the posts are stored in a SQLite database.
 
-Features
-User authentication (registration, login, logout)
-Create, edit, and delete blog posts
-View all posts
-Responsive design with Flask templates
-Error handling and form validation
-Installation
-Prerequisites
+<u>Features</u>
+* User authentication (registration, login, logout)
+* Create, edit, and delete blog posts
+* View all posts
+* Responsive design with Flask templates
+* Error handling and form validation
+* Installation
+<b>Prerequisites</b>
 Make sure you have Python 3.x installed. You can download it from Python's official website.
 
 Clone the Repository
