@@ -1,6 +1,6 @@
 # Python-Flask-Blog-App
 
-<u>Table of Contents</u>
+## Table of Contents
 * Introduction
 * Features
 * Installation
@@ -16,7 +16,7 @@ A brief introduction to what your web app does. For example:
 
 This is a simple blogging platform built with Python and Flask. Users can register, log in, create, edit, and delete blog posts. The app also features a user authentication system, and the posts are stored in a SQLite database.
 
-<u>Features</u>
+### Features
 * User authentication (registration, login, logout)
 * Create, edit, and delete blog posts
 * View all posts
@@ -26,7 +26,7 @@ This is a simple blogging platform built with Python and Flask. Users can regist
 <b>Prerequisites</b>
 Make sure you have Python 3.x installed. You can download it from Python's official website.
 
-Clone the Repository
+### Clone the Repository
 bash
 Copy code
 git clone https://github.com/your-username/project-name.git
@@ -57,7 +57,7 @@ Copy code
 python run.py
 The app will be available at http://127.0.0.1:5000/.
 
-Accessing the App
+### Accessing the App
 Home Page: http://127.0.0.1:5000/
 Registration Page: http://127.0.0.1:5000/register
 Login Page: http://127.0.0.1:5000/login
@@ -72,9 +72,9 @@ Deployment
 Deployment on Heroku
 To deploy this application on Heroku, follow these steps:
 
-Create a Heroku account and install the Heroku CLI.
+## Create a Heroku account and install the Heroku CLI.
 
-Login to Heroku from the CLI:
+### Login to Heroku from the CLI:
 
 bash
 Copy code
@@ -119,7 +119,7 @@ coverage report
 Contributing
 Contributions are welcome! Please follow these steps:
 
-Fork the repository.
+### Fork the repository.
 Create a new branch (git checkout -b feature/your-feature-name).
 Make your changes.
 Commit your changes (git commit -m 'Add some feature').
@@ -127,8 +127,8 @@ Push to the branch (git push origin feature/your-feature-name).
 Open a pull request.
 Please make sure your code follows the PEP 8 guidelines.
 
-License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+### Contact
 Created by Mark Tevin Simiyu
